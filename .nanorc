@@ -1,0 +1,21 @@
+include "/usr/share/nano/*.nanorc"
+
+set atblanks
+set cutfromcursor
+set nohelp
+set softwrap
+set suspend
+set tabsize 4
+set tabstospaces
+
+set speller "aspell -x -c"
+set constantshow
+set linenumbers
+set casesensitive
+set historylog
+set positionlog
+set smooth
+set autoindent
+set mouse
+set morespace
+
